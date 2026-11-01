@@ -1,4 +1,5 @@
-# LINE オープンチャット IPトラッカー v1.1 (line_iptool.py)
+# LINE オープンチャット IPトラッカー v1.1 (local_diagnostic.py)
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/bcf6d05c-fbbe-4ab2-a73d-f9807101724f" />
 
 オープンチャットの参加者・特定ユーザーにリンクを踏ませて、
 **接続元IPアドレス / 回線種別 / おおよその地域 / 端末情報** を記録するツールです。
